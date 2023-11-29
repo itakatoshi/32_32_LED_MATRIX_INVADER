@@ -11,7 +11,7 @@
 〇主な部品
 
 
-・FPGA(Cmod A7-35T)
+・マイコンSTM32/NUCLEO-F103RB
 
 
 ・32×32LEDマトリックス
